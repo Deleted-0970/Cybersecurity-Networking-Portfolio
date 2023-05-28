@@ -5,16 +5,28 @@ Writeups on configuring network security devices.
 ### <ins>Experience</ins>
 - Labs
   - Palo Alto Firewalls
-    - [Factory Reset]
-    - [SOHO Configuration]
-    - [Version Updates]
-    - [URL Filtering]
-    - [Site to Site VPN Preshared Key]
-    - [Site to Site VPN Certificate]
-    - [Remote Access VPN]
-    - [Clientless VPN]
+    - [Factory Reset][PAFR]
+    - [SOHO Configuration][PASOHO]
+    - [Version Updates][PAVU]
+    - [URL Filtering][PAURL]
+    - [Site to Site VPN Preshared Key][PAS2SKEY]
+    - [Site to Site VPN Certificate][PAS2SCERT]
+    - [Remote Access VPN][PARAVPN]
+    - [Clientless VPN][PACVPN]
   - PfSense Firewalls
-    - [Setup & Remote Desktop]
+    - [Setup & Remote Desktop][PFSET]
   - Cisco ASA
-    - [Factory Reset]
-    - [Clientless VPN]
+    - [Factory Reset][ASAFR]
+    - [Clientless VPN][ASACVPN]
+
+[PAFR]:
+[PASOHO]:
+[PAVU]:
+[PAURL]:
+[PAS2SKEY]:
+[PAS2SCERT]:
+[PARAVPN]:
+[PACVPN]:
+[PFSET]:
+[ASAFR]:
+[ASAVPN]:
