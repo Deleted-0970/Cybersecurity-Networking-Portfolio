@@ -19,7 +19,7 @@ Writeups on configuring network security devices.
     - [Factory Reset][ASAFR]
     - [Clientless VPN][ASACVPN]
 
-[PAFR]:
+[PAFR]: https://github.com/Deleted-0970/Cybersecurity-Networking-Portfolio/tree/main/Writeups/1Palo%20Alto%20Factory%20reset%20lab.docx
 [PASOHO]:
 [PAVU]:
 [PAURL]:
