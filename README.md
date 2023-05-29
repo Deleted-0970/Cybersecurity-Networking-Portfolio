@@ -2,7 +2,7 @@
 Writeups on configuring network security devices.
 *this repository contains writeups related to configuring and setting up network security devices including firewalls*
 
-###**Complete Portfolio**
+### <ins>**Complete Portfolio**</ins>
 
 ### <ins>Experience</ins>
 - Labs
