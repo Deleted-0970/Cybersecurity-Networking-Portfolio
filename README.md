@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 Writeups on configuring network security devices.
-*this repository contains writeups related to configuring and setting up network security devices including firewalls*
+This repository contains writeups related to configuring and setting up network security devices including firewalls.
 
 ### <ins>Complete Cybersecurity Portfolio</ins>
   - [Complete Portfolio][COMPLETE]
